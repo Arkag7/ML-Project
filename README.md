@@ -96,4 +96,11 @@ docker stop <container_id>
 
 
 
+To list docker image
+```
+docker images
+```
 
+Run docker image
+```
+docker run -p 5000:5000 -e PORT=5000 f8c749e73678
