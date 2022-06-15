@@ -92,3 +92,6 @@ Tos stop docker conatiner
 ```
 docker stop <container_id>
 ```
+
+
+Deployed to Heroku:https://ml-regression-appn.herokuapp.com/
