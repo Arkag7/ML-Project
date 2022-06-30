@@ -95,6 +95,12 @@ docker stop <container_id>
 Run setup to install packeges
 ```
 python setup.py install
+```
+```
+install ipynbkernel
+```
+pip install ipykernel
+```
 
 
 Deployed to Heroku:https://ml-regression-appn.herokuapp.com/
